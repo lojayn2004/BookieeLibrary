@@ -1,0 +1,62 @@
+﻿[
+  {
+    
+    "CategoryName": "Fiction",
+    "Description": "Imaginative stories not based on real events.",
+    "CategoryClassIcon": "fas fa-book"
+  },
+  {
+    
+    "CategoryName": "Science",
+    "Description": "Books covering scientific disciplines and discoveries.",
+    "CategoryClassIcon": "fas fa-microscope"
+  },
+  {
+   
+    "CategoryName": "Technology",
+    "Description": "Books focused on modern technology and innovations.",
+    "CategoryClassIcon": "fas fa-laptop"
+  },
+  {
+  
+    "CategoryName": "History",
+    "Description": "Books about historical events and civilizations.",
+    "CategoryClassIcon": "fas fa-history"
+  },
+  {
+  
+    "CategoryName": "Biography",
+    "Description": "Life stories of notable individuals.",
+    "CategoryClassIcon": "fas fa-user-tie"
+  },
+  {
+    
+    "CategoryName": "Fantasy",
+    "Description": "Imaginary worlds filled with magic, mythical creatures, and adventure.",
+    "CategoryClassIcon": "fas fa-dragon"
+  },
+  {
+   
+    "CategoryName": "Mystery",
+    "Description": "Suspenseful stories involving puzzles or crimes to solve.",
+    "CategoryClassIcon": "fas fa-eye-slash"
+  },
+  {
+    
+    "CategoryName": "Self-Help",
+    "Description": "Books aimed at personal development and improvement.",
+    "CategoryClassIcon": "fas fa-hands-helping"
+  },
+  {
+   
+    "CategoryName": "Philosophy",
+    "Description": "Exploration of knowledge, ethics, logic, and existence.",
+    "CategoryClassIcon": "fas fa-brain"
+  },
+  {
+    
+    "CategoryName": "Art & Design",
+    "Description": "Books related to visual arts, creativity, and design principles.",
+    "CategoryClassIcon": "fas fa-palette"
+  }
+]

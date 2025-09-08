@@ -1,0 +1,46 @@
+﻿[
+  {
+    "ISBN": "978-0451524935",
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Edition": "Signet Classics",
+    "Description": "A dystopian novel about totalitarianism",
+    "AvaliableQuantity": 10,
+    "CategoryId": 1,
+    "CreatedAt": "2023-01-01T00:00:00",
+    "LastUpdatedAt": "2023-01-01T00:00:00"
+  },
+  {
+    "ISBN": "978-0061120084",
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Edition": "Harper Perennial Modern Classics",
+    "Description": "A novel about racial inequality in the American South",
+    "AvaliableQuantity": 8,
+    "CategoryId": 1,
+    "CreatedAt": "2023-01-01T00:00:00",
+    "LastUpdatedAt": "2023-01-01T00:00:00"
+  },
+  {
+    "ISBN": "978-0553418026",
+    "Title": "A Brief History of Time",
+    "Author": "Stephen Hawking",
+    "Edition": "10th Anniversary Edition",
+    "Description": "Popular science book about cosmology",
+    "AvaliableQuantity": 5,
+    "CategoryId": 2,
+    "CreatedAt": "2023-01-01T00:00:00",
+    "LastUpdatedAt": "2023-01-01T00:00:00"
+  },
+  {
+    "ISBN": "978-0134685991",
+    "Title": "Clean Code",
+    "Author": "Robert C. Martin",
+    "Edition": "1st Edition",
+    "Description": "A handbook of agile software craftsmanship",
+    "AvaliableQuantity": 12,
+    "CategoryId": 3,
+    "CreatedAt": "2023-01-01T00:00:00",
+    "LastUpdatedAt": "2023-01-01T00:00:00"
+  }
+]
